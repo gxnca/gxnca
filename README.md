@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Gonçalo
+##             Hi there 👋 I'm Gonçalo
 
 # 💫 About Me:
 🔭 I’m currently studying at Universidade do Minho<br>🌱 I’m currently learning Functional Programming<br>💬 Ask me about anything<br>⚡ Fun fact: started to code at 11 yo
