@@ -1,6 +1,6 @@
 ##             Hi there 👋 I'm Gonçalo
 
-# 💫 About Me:
+# About Me:
 🔭 I’m currently studying at Universidade do Minho<br>⚡ Fun fact: started to code at 11 yo
 
 
